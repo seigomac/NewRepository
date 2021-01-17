@@ -1,12 +1,10 @@
-print("Hello WOrld")
+list=[1,2,3,4,5,6]
 
+#配列の二番目から四番目までを出力
+print(list[2:4])
 
+#最初から四番目までをスライス
+print(list[:4])
 
-seigo akazawa
-
-seigo akazawa
-
-
-
-akazawa seigo 
-
+#三番目から最後まで
+print(list[3:])
